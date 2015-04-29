@@ -32,6 +32,9 @@ public class Capa {
     public void setConexiones(ArrayList conexiones) {
         this.conexiones = conexiones;
     }
+    public void setConexionesEnOrden(Object o){
+        conexiones.add(o);
+    }
     
     public Object getConexionesI(int i) {
         return conexiones.get(i);
