@@ -60,7 +60,7 @@ public class Prototipo {
         for(int a=0;a<cantidadDeCapas;a++){//Por cada capa
             
                 for(int b=0;b<cantidadDeAgentes-1;b++){//Por cada agente
-                    for(int c=0;c<cantidadDeAgentes-1-b;c++){//Por cada conexión
+                    for(int c=0;c<cantidadDeAgentes-1-b;c++){//Por cada conexiÃ³n
                         Conexion con = new Conexion(agentes[b],agentes[b+c+1],capas[a],false);
                         capas[a].setConexionesEnOrden(con);
                         if(!capas[a].getEsBidireccional()){

@@ -1,1 +1,6 @@
-/dist/
+target/
+*.class
+*.jar
+.idea/
+*.iml
+nbproject/private/
