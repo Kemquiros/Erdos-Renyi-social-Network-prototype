@@ -6,10 +6,6 @@ authors:
   - given-names: John Edisson
     family-names: Tapias Zarrazola
     affiliation: Universidad de Antioquia
-  # The second author of the 2015 prototype appears in the git history only as
-  # the username "galileo"; the record does not carry a full name.
-  - alias: galileo
-    affiliation: Universidad de Antioquia
 version: 1.0.0
 date-released: "2026-08-06"
 license: MIT

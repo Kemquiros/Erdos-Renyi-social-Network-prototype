@@ -15,8 +15,8 @@ If you came to **learn what Erdős–Rényi actually predicts**, start at
 suite.
 
 Written in **2015** at **Universidad de Antioquia**, Medellín, by **John Edisson Tapias
-Zarrazola** and a co-author the git history records only as `galileo`. The original NetBeans
-prototype is preserved in [`docs/netbeans-2015/`](docs/netbeans-2015/).
+Zarrazola**. The original NetBeans prototype is preserved in
+[`docs/netbeans-2015/`](docs/netbeans-2015/).
 
 ---
 
@@ -209,13 +209,12 @@ git checkout prototype-2015
 | Latin-1 sources | UTF-8 | mojibake in any modern editor |
 | no tests | 22 tests against analytic values | none of the three defects above was visible by reading |
 
-Original prototype: John Edisson Tapias Zarrazola and `galileo`, Universidad de Antioquia,
-Medellín. Commits dated 28–29 April 2015.
+Original prototype: John Edisson Tapias Zarrazola, Universidad de Antioquia, Medellín. Commits
+dated 28–29 April 2015.
 
-> **A note on attribution.** The second author is recorded in the git history only as the username
-> `galileo`, with no full name anywhere in the repository. They are credited as such in
-> [`CITATION.cff`](CITATION.cff) rather than guessed at; if you know the name, please open an issue
-> and it will be corrected.
+> **A note on attribution.** The 2015 commits carry two different git identities,
+> `jedisson.tapias` and `galileo`. They are the same person: `galileo` was the author's Linux
+> account. The prototype is sole-authored.
 
 ## Where to go next
 
@@ -231,7 +230,7 @@ Medellín. Commits dated 28–29 April 2015.
 
 See [`CITATION.cff`](CITATION.cff), or:
 
-> Tapias Zarrazola, J. E. & galileo. *multilayer-erdos-renyi: Erdős–Rényi random graphs over a
+> Tapias Zarrazola, J. E. *multilayer-erdos-renyi: Erdős–Rényi random graphs over a
 > multilayer social network.* Version 1.0.0, 2026.
 > https://github.com/Kemquiros/Erdos-Renyi-social-Network-prototype
 
